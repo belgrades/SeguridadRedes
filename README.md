@@ -1,4 +1,4 @@
-Laboratorio de Cifrado Asimétrico y Firma Digital
+Cifrado Asimétrico y Firma Digital
 ========================================================
 
 # Contexto
