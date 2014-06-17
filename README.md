@@ -1,7 +1,7 @@
-# Laboratorio de Cifrado Asimétrico y Firma Digital
+Laboratorio de Cifrado Asimétrico y Firma Digital
 ========================================================
 
-## Contexto
+Contexto
 ================
 Para el desarrollo de este laboratorio usé dos máquinas del laboratorio de redes móviles e inalámbricas. **ICARO**
 
@@ -17,7 +17,7 @@ Para el desarrollo de este laboratorio usé dos máquinas del laboratorio de red
   * **Correo de la clave:** wilmer.pereira@ciens.ucv.ve
   * **Passphrase:** Máquina A
 
-## Desarrollo
+Desarrollo
 =================
 ### Genere un par de claves (pública y privada) con gpg. 
   * **Cómo es el comando?**
