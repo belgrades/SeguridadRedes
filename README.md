@@ -1,6 +1,14 @@
 Cifrado Asimétrico y Firma Digital
 ========================================================
 
+# Aclaratoria Noviembre 2016
+
+El siguiente laboratorio fue realizado en la Escuela de Computación de la Universidad Central de Venezuela en el año 2014 como parte de mis estudios de maestría.
+
+A petición del profesor Wilmer Pereira, aclaro que el mismo responde a unas preguntas específicas de un laboratorio de aquel año y **NO** debe ser usado en períodos actuales de su curso.
+
+Más aún, los contenidos útiles para realizar laboratorio pueden ser encontrados en manuales oficiales de cada una de las herramientas. 
+
 # Contexto
 
 Para el desarrollo de este laboratorio usé dos máquinas del laboratorio de redes móviles e inalámbricas. **ICARO**
